@@ -5,6 +5,9 @@ remote_theme: just-the-docs/just-the-docs
 url: "https://lidiaev.github.io"
 baseurl: ""
 
+# Use photo as the site logo (Just the Docs).
+logo: "/assets/images/photo.jpeg"
+
 permalink: pretty
 
 search_enabled: true
