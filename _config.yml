@@ -1,0 +1,23 @@
+title: "Lidia Ev"
+description: "Resume and articles"
+theme: null
+remote_theme: just-the-docs/just-the-docs
+
+# User site (username.github.io) — baseurl must be empty.
+url: "https://lidiaev.github.io"
+baseurl: ""
+
+permalink: pretty
+
+search_enabled: true
+
+# In-page table of contents (from headings).
+toc_enabled: true
+toc_min_heading_level: 2
+toc_max_heading_level: 4
+
+# Header links (top right)
+aux_links:
+  "GitHub":
+    - "https://github.com/lidiaev"
+
