@@ -1,7 +1,6 @@
 ---
-title: "First article"
-grand_parent: "English"
-parent: "Articles"
+title: "Test article"
+parent: "Posts"
 nav_order: 1
 ---
 

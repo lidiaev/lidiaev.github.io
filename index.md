@@ -1,9 +1,9 @@
 ---
-title: "Language"
-nav_exclude: true
+title: "Home"
+nav_order: 1
 ---
 
-## Choose language / Выберите язык
+## Welcome
 
-- [Русский](/ru/)
-- [English](/en/)
+- [Resume](/resume/)
+- [Posts](/docs/)
