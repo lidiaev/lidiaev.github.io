@@ -16,20 +16,6 @@ toc_enabled: true
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 
-# Optional profile details (used by pages via Liquid).
 author:
   name: "Vladislav Lidiaev"
-  # Set to a valid path (and add the file) to show a photo in resume.
-  # Example: /assets/images/me.jpg
   photo: "/assets/images/photo.jpeg"
-
-# Social links (shown as icons when present).
-social:
-  github:
-  email:
-  telegram:
-
-# Keep plain link(s) in the header (no icons).
-aux_links:
-  "GitHub":
-    - "https://github.com/lidiaev"

@@ -1,26 +1,21 @@
-/* Link + icon color */
-:root {
-  --brand-yellow: #f1c40f;
-  --brand-yellow-hover: #ffd54a;
-}
-
-a,
-a:visited {
-  color: var(--brand-yellow);
-}
-
-a:hover,
-a:focus {
-  color: var(--brand-yellow-hover);
-}
-
 /* Make Just-the-Docs logo look like an avatar */
-.site-logo,
-.site-logo img {
+.site-logo {
   border-radius: 9999px;
+  overflow: hidden;
+  background-position: center;
+  background-size: cover;
 }
 
 .site-logo img {
+  display: block;
+  border-radius: 9999px;
   object-fit: cover;
+}
+
+/* Sidebar: divider between "About me" and "Articles" */
+.side-bar .nav-list > .nav-list-item:nth-child(2) {
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
 }
 
