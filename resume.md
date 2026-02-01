@@ -1,4 +1,7 @@
 ---
-title: "About me"
-nav_order: 1
+title: "About Me"
+permalink: /about/
+nav_exclude: true
 ---
+
+Коротко обо мне.

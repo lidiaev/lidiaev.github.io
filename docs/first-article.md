@@ -1,6 +1,5 @@
 ---
 title: "Test article"
-parent: "Articles"
 nav_order: 1
 ---
 
